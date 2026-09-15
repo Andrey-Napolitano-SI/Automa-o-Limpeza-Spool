@@ -30,11 +30,11 @@ def conectar_sftp():
     log("Conectando ao servidor...")
 
     ssh.connect(
-       hostname="suntechsupplies170773.protheus.cloudtotvs.com.br",
-        port=1901,
-        username="ftp_CMKVNJ_production",
-        password="4CXE8PQr",
-        timeout=10
+       hostname="",
+        port=,
+        username="",
+        password="",
+        timeout=
 
 
 
